@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "星空のディスタンス",
+  "base_artist": "THE ALFEE",
+  "createdAt": "2025-12-14T03:45:39.250786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星空のディスタンス",
+      "artist": "The ALFEE",
+      "has_synced": true,
+      "path": "select/01_星空のディスタンス_The_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星空のディスタンス",
+      "artist": "Acid Black Cherry",
+      "has_synced": false,
+      "path": "select/02_星空のディスタンス_Acid_Black_Cherry.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星空のディスタンス",
+      "artist": "ALFEE",
+      "has_synced": true,
+      "path": "select/03_星空のディスタンス_ALFEE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星空のディスタンス - デビュー40周年 スペシャルコンサート at 日本武道館",
+      "artist": "THE ALFEE",
+      "has_synced": true,
+      "path": "select/04_星空のディスタンス_-_デビュー40周年_スペシャルコンサート_at_日本武道館_THE_ALFEE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星空のディスタンス",
+      "artist": "THE ALFEE",
+      "has_synced": false,
+      "path": "select/pl_01_星空のディスタンス_THE_ALFEE.txt"
+    }
+  ]
+}
